@@ -25,4 +25,4 @@ if(x>0 && y<0)
 {
     quater = 4;
 }
-Console.WriteLine(quater);
+Console.WriteLine($"{quater} четверть");
